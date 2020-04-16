@@ -15,39 +15,54 @@
                         <rect key="frame" x="0.0" y="0.0" width="414" height="896"/>
                         <autoresizingMask key="autoresizingMask" widthSizable="YES" heightSizable="YES"/>
                         <subviews>
-                            <imageView clipsSubviews="YES" userInteractionEnabled="NO" contentMode="scaleAspectFit" horizontalHuggingPriority="251" verticalHuggingPriority="251" translatesAutoresizingMaskIntoConstraints="NO" id="sOf-Kd-2hp">
-                                <rect key="frame" x="20" y="249" width="374" height="236"/>
-                                <color key="backgroundColor" white="0.0" alpha="0.0" colorSpace="custom" customColorSpace="genericGamma22GrayColorSpace"/>
-                                <constraints>
-                                    <constraint firstAttribute="width" constant="374" id="C6W-wx-vwh"/>
-                                    <constraint firstAttribute="height" constant="236" id="yHT-oH-0CG"/>
-                                </constraints>
-                            </imageView>
-                            <button opaque="NO" contentMode="scaleToFill" contentHorizontalAlignment="center" contentVerticalAlignment="center" buttonType="roundedRect" lineBreakMode="middleTruncation" translatesAutoresizingMaskIntoConstraints="NO" id="dVS-Z1-VJb">
-                                <rect key="frame" x="151.5" y="602" width="111" height="46"/>
+                            <button opaque="NO" contentMode="scaleToFill" contentHorizontalAlignment="center" contentVerticalAlignment="center" lineBreakMode="middleTruncation" translatesAutoresizingMaskIntoConstraints="NO" id="dVS-Z1-VJb">
+                                <rect key="frame" x="70" y="244" width="275" height="266"/>
                                 <color key="backgroundColor" systemColor="systemPinkColor" red="1" green="0.1764705882" blue="0.33333333329999998" alpha="1" colorSpace="custom" customColorSpace="sRGB"/>
                                 <constraints>
-                                    <constraint firstAttribute="width" constant="111" id="Fwm-co-bjq"/>
-                                    <constraint firstAttribute="height" constant="46" id="tgC-tg-xzi"/>
+                                    <constraint firstAttribute="height" constant="266" id="0fL-ZC-Fa9"/>
+                                    <constraint firstAttribute="width" constant="275" id="F1k-x0-BSf"/>
                                 </constraints>
                                 <color key="tintColor" systemColor="systemGray6Color" red="0.94901960780000005" green="0.94901960780000005" blue="0.96862745100000003" alpha="1" colorSpace="custom" customColorSpace="sRGB"/>
-                                <state key="normal" title="Button"/>
+                                <state key="normal" image="pote"/>
                                 <connections>
                                     <action selector="tapButton:" destination="BYZ-38-t0r" eventType="touchUpInside" id="2ky-Rb-RYv"/>
                                 </connections>
                             </button>
+                            <imageView clipsSubviews="YES" userInteractionEnabled="NO" contentMode="scaleAspectFit" horizontalHuggingPriority="251" verticalHuggingPriority="251" translatesAutoresizingMaskIntoConstraints="NO" id="5lQ-d0-doF">
+                                <rect key="frame" x="20" y="510" width="374" height="236"/>
+                                <color key="backgroundColor" white="0.0" alpha="0.0" colorSpace="custom" customColorSpace="genericGamma22GrayColorSpace"/>
+                                <constraints>
+                                    <constraint firstAttribute="width" constant="374" id="g4Z-Dj-yBj"/>
+                                    <constraint firstAttribute="height" constant="236" id="waa-Mx-I48"/>
+                                </constraints>
+                            </imageView>
+                            <label opaque="NO" userInteractionEnabled="NO" contentMode="left" horizontalHuggingPriority="251" verticalHuggingPriority="251" text="Label" textAlignment="center" lineBreakMode="tailTruncation" numberOfLines="3" baselineAdjustment="alignBaselines" adjustsFontSizeToFit="NO" translatesAutoresizingMaskIntoConstraints="NO" id="FoT-Ry-Gv7">
+                                <rect key="frame" x="59" y="605" width="286" height="49"/>
+                                <constraints>
+                                    <constraint firstAttribute="height" constant="49" id="2Bo-8V-Zqt"/>
+                                    <constraint firstAttribute="width" constant="286" id="o7s-bg-QP0"/>
+                                </constraints>
+                                <fontDescription key="fontDescription" type="system" pointSize="17"/>
+                                <nil key="textColor"/>
+                                <nil key="highlightedColor"/>
+                            </label>
                         </subviews>
                         <color key="backgroundColor" systemColor="systemBackgroundColor" cocoaTouchSystemColor="whiteColor"/>
                         <constraints>
-                            <constraint firstItem="dVS-Z1-VJb" firstAttribute="top" secondItem="sOf-Kd-2hp" secondAttribute="bottom" constant="117" id="H9y-fF-KTW"/>
-                            <constraint firstItem="sOf-Kd-2hp" firstAttribute="centerX" secondItem="8bC-Xf-vdC" secondAttribute="centerX" id="Pr8-mV-247"/>
-                            <constraint firstItem="sOf-Kd-2hp" firstAttribute="top" secondItem="6Tk-OE-BBY" secondAttribute="top" constant="205" id="i6p-bX-BEv"/>
-                            <constraint firstItem="dVS-Z1-VJb" firstAttribute="centerX" secondItem="8bC-Xf-vdC" secondAttribute="centerX" id="n1p-oo-9ry"/>
+                            <constraint firstItem="dVS-Z1-VJb" firstAttribute="leading" secondItem="6Tk-OE-BBY" secondAttribute="leading" constant="70" id="678-5q-HSs"/>
+                            <constraint firstItem="5lQ-d0-doF" firstAttribute="top" secondItem="6Tk-OE-BBY" secondAttribute="top" constant="466" id="Ahn-T6-RiP"/>
+                            <constraint firstItem="5lQ-d0-doF" firstAttribute="leading" secondItem="6Tk-OE-BBY" secondAttribute="leading" constant="20" id="BVb-UM-rXm"/>
+                            <constraint firstItem="FoT-Ry-Gv7" firstAttribute="top" secondItem="5lQ-d0-doF" secondAttribute="top" constant="95" id="OoA-Pg-5Nl"/>
+                            <constraint firstItem="FoT-Ry-Gv7" firstAttribute="leading" secondItem="5lQ-d0-doF" secondAttribute="leading" constant="39" id="XUD-yR-zZK"/>
+                            <constraint firstItem="dVS-Z1-VJb" firstAttribute="top" secondItem="6Tk-OE-BBY" secondAttribute="top" constant="200" id="atB-X4-ujW"/>
+                            <constraint firstItem="6Tk-OE-BBY" firstAttribute="trailing" secondItem="dVS-Z1-VJb" secondAttribute="trailing" constant="69" id="y17-IT-wT2"/>
                         </constraints>
                         <viewLayoutGuide key="safeArea" id="6Tk-OE-BBY"/>
                     </view>
                     <connections>
-                        <outlet property="imgBiscoito" destination="sOf-Kd-2hp" id="ctx-5K-LHM"/>
+                        <outlet property="btnPote" destination="dVS-Z1-VJb" id="LhH-jE-guD"/>
+                        <outlet property="imgBiscoito" destination="5lQ-d0-doF" id="ITj-LP-VdX"/>
+                        <outlet property="lblFrase" destination="FoT-Ry-Gv7" id="LpK-TO-Eil"/>
                     </connections>
                 </viewController>
                 <placeholder placeholderIdentifier="IBFirstResponder" id="dkx-z0-nzr" sceneMemberID="firstResponder"/>
@@ -55,4 +70,7 @@
             <point key="canvasLocation" x="137.68115942028987" y="129.91071428571428"/>
         </scene>
     </scenes>
+    <resources>
+        <image name="pote" width="396" height="384"/>
+    </resources>
 </document>
