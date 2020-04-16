@@ -33,7 +33,7 @@ class ViewController: UIViewController {
     
     func createAnimation(imageView: UIImageView, images: [UIImage]) {
         imageView.animationImages = images
-        imageView.animationDuration = 2.0
+        imageView.animationDuration = 1.0
         imageView.animationRepeatCount = 1
         imageView.startAnimating()
     }

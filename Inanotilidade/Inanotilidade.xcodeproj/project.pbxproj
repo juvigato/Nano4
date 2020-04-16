@@ -7,27 +7,27 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
-		0F43193B2447DCAB00119647 /* biscoito13.pdf in Resources */ = {isa = PBXBuildFile; fileRef = 0F4319262447DCAB00119647 /* biscoito13.pdf */; };
-		0F43193D2447DCAB00119647 /* biscoito18.pdf in Resources */ = {isa = PBXBuildFile; fileRef = 0F4319282447DCAB00119647 /* biscoito18.pdf */; };
-		0F4319402447DCAB00119647 /* biscoito11.pdf in Resources */ = {isa = PBXBuildFile; fileRef = 0F43192B2447DCAB00119647 /* biscoito11.pdf */; };
-		0F4319412447DCAB00119647 /* biscoito16.pdf in Resources */ = {isa = PBXBuildFile; fileRef = 0F43192C2447DCAB00119647 /* biscoito16.pdf */; };
-		0F4319422447DCAB00119647 /* biscoito17.pdf in Resources */ = {isa = PBXBuildFile; fileRef = 0F43192D2447DCAB00119647 /* biscoito17.pdf */; };
-		0F4319432447DCAB00119647 /* biscoito10.pdf in Resources */ = {isa = PBXBuildFile; fileRef = 0F43192E2447DCAB00119647 /* biscoito10.pdf */; };
-		0F4319462447DCAB00119647 /* biscoito21.pdf in Resources */ = {isa = PBXBuildFile; fileRef = 0F4319312447DCAB00119647 /* biscoito21.pdf */; };
-		0F4319482447DCAB00119647 /* biscoito15.pdf in Resources */ = {isa = PBXBuildFile; fileRef = 0F4319332447DCAB00119647 /* biscoito15.pdf */; };
-		0F43194B2447DCAB00119647 /* biscoito12.pdf in Resources */ = {isa = PBXBuildFile; fileRef = 0F4319362447DCAB00119647 /* biscoito12.pdf */; };
-		0F43194D2447DCAB00119647 /* biscoito14.pdf in Resources */ = {isa = PBXBuildFile; fileRef = 0F4319382447DCAB00119647 /* biscoito14.pdf */; };
-		0F43194E2447DCAB00119647 /* biscoito19.pdf in Resources */ = {isa = PBXBuildFile; fileRef = 0F4319392447DCAB00119647 /* biscoito19.pdf */; };
-		0F43194F2447DCAB00119647 /* biscoito20.pdf in Resources */ = {isa = PBXBuildFile; fileRef = 0F43193A2447DCAB00119647 /* biscoito20.pdf */; };
-		0F4319592447DE4600119647 /* biscoito3.pdf in Resources */ = {isa = PBXBuildFile; fileRef = 0F4319502447DE4500119647 /* biscoito3.pdf */; };
-		0F43195A2447DE4600119647 /* biscoito6.pdf in Resources */ = {isa = PBXBuildFile; fileRef = 0F4319512447DE4500119647 /* biscoito6.pdf */; };
-		0F43195B2447DE4600119647 /* biscoito1.pdf in Resources */ = {isa = PBXBuildFile; fileRef = 0F4319522447DE4500119647 /* biscoito1.pdf */; };
-		0F43195C2447DE4600119647 /* biscoito5.pdf in Resources */ = {isa = PBXBuildFile; fileRef = 0F4319532447DE4500119647 /* biscoito5.pdf */; };
-		0F43195D2447DE4600119647 /* biscoito9.pdf in Resources */ = {isa = PBXBuildFile; fileRef = 0F4319542447DE4500119647 /* biscoito9.pdf */; };
-		0F43195E2447DE4600119647 /* biscoito4.pdf in Resources */ = {isa = PBXBuildFile; fileRef = 0F4319552447DE4600119647 /* biscoito4.pdf */; };
-		0F43195F2447DE4600119647 /* biscoito8.pdf in Resources */ = {isa = PBXBuildFile; fileRef = 0F4319562447DE4600119647 /* biscoito8.pdf */; };
-		0F4319602447DE4600119647 /* biscoito2.pdf in Resources */ = {isa = PBXBuildFile; fileRef = 0F4319572447DE4600119647 /* biscoito2.pdf */; };
-		0F4319612447DE4600119647 /* biscoito7.pdf in Resources */ = {isa = PBXBuildFile; fileRef = 0F4319582447DE4600119647 /* biscoito7.pdf */; };
+		0F5227862448CB18009285D1 /* biscoito18.pdf in Resources */ = {isa = PBXBuildFile; fileRef = 0F5227712448CB17009285D1 /* biscoito18.pdf */; };
+		0F5227872448CB18009285D1 /* biscoito11.pdf in Resources */ = {isa = PBXBuildFile; fileRef = 0F5227722448CB17009285D1 /* biscoito11.pdf */; };
+		0F5227882448CB18009285D1 /* biscoito19.pdf in Resources */ = {isa = PBXBuildFile; fileRef = 0F5227732448CB17009285D1 /* biscoito19.pdf */; };
+		0F5227892448CB18009285D1 /* biscoito8.pdf in Resources */ = {isa = PBXBuildFile; fileRef = 0F5227742448CB17009285D1 /* biscoito8.pdf */; };
+		0F52278A2448CB18009285D1 /* biscoito13.pdf in Resources */ = {isa = PBXBuildFile; fileRef = 0F5227752448CB17009285D1 /* biscoito13.pdf */; };
+		0F52278B2448CB18009285D1 /* biscoito9.pdf in Resources */ = {isa = PBXBuildFile; fileRef = 0F5227762448CB17009285D1 /* biscoito9.pdf */; };
+		0F52278C2448CB18009285D1 /* biscoito5.pdf in Resources */ = {isa = PBXBuildFile; fileRef = 0F5227772448CB18009285D1 /* biscoito5.pdf */; };
+		0F52278D2448CB18009285D1 /* biscoito7.pdf in Resources */ = {isa = PBXBuildFile; fileRef = 0F5227782448CB18009285D1 /* biscoito7.pdf */; };
+		0F52278E2448CB18009285D1 /* biscoito14.pdf in Resources */ = {isa = PBXBuildFile; fileRef = 0F5227792448CB18009285D1 /* biscoito14.pdf */; };
+		0F52278F2448CB18009285D1 /* biscoito12.pdf in Resources */ = {isa = PBXBuildFile; fileRef = 0F52277A2448CB18009285D1 /* biscoito12.pdf */; };
+		0F5227902448CB18009285D1 /* biscoito10.pdf in Resources */ = {isa = PBXBuildFile; fileRef = 0F52277B2448CB18009285D1 /* biscoito10.pdf */; };
+		0F5227912448CB18009285D1 /* biscoito2.pdf in Resources */ = {isa = PBXBuildFile; fileRef = 0F52277C2448CB18009285D1 /* biscoito2.pdf */; };
+		0F5227922448CB18009285D1 /* biscoito1.pdf in Resources */ = {isa = PBXBuildFile; fileRef = 0F52277D2448CB18009285D1 /* biscoito1.pdf */; };
+		0F5227932448CB18009285D1 /* biscoito6.pdf in Resources */ = {isa = PBXBuildFile; fileRef = 0F52277E2448CB18009285D1 /* biscoito6.pdf */; };
+		0F5227942448CB18009285D1 /* biscoito3.pdf in Resources */ = {isa = PBXBuildFile; fileRef = 0F52277F2448CB18009285D1 /* biscoito3.pdf */; };
+		0F5227952448CB18009285D1 /* biscoito4.pdf in Resources */ = {isa = PBXBuildFile; fileRef = 0F5227802448CB18009285D1 /* biscoito4.pdf */; };
+		0F5227962448CB18009285D1 /* biscoito15.pdf in Resources */ = {isa = PBXBuildFile; fileRef = 0F5227812448CB18009285D1 /* biscoito15.pdf */; };
+		0F5227972448CB18009285D1 /* biscoito16.pdf in Resources */ = {isa = PBXBuildFile; fileRef = 0F5227822448CB18009285D1 /* biscoito16.pdf */; };
+		0F5227982448CB18009285D1 /* biscoito21.pdf in Resources */ = {isa = PBXBuildFile; fileRef = 0F5227832448CB18009285D1 /* biscoito21.pdf */; };
+		0F5227992448CB18009285D1 /* biscoito20.pdf in Resources */ = {isa = PBXBuildFile; fileRef = 0F5227842448CB18009285D1 /* biscoito20.pdf */; };
+		0F52279A2448CB18009285D1 /* biscoito17.pdf in Resources */ = {isa = PBXBuildFile; fileRef = 0F5227852448CB18009285D1 /* biscoito17.pdf */; };
 		0FCEA42A244787BF004E12BD /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 0FCEA429244787BF004E12BD /* AppDelegate.swift */; };
 		0FCEA42C244787BF004E12BD /* SceneDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 0FCEA42B244787BF004E12BD /* SceneDelegate.swift */; };
 		0FCEA42E244787BF004E12BD /* ViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 0FCEA42D244787BF004E12BD /* ViewController.swift */; };
@@ -37,27 +37,27 @@
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
-		0F4319262447DCAB00119647 /* biscoito13.pdf */ = {isa = PBXFileReference; lastKnownFileType = image.pdf; name = biscoito13.pdf; path = ../../../../../Sprites/biscoito13.pdf; sourceTree = "<group>"; };
-		0F4319282447DCAB00119647 /* biscoito18.pdf */ = {isa = PBXFileReference; lastKnownFileType = image.pdf; name = biscoito18.pdf; path = ../../../../../Sprites/biscoito18.pdf; sourceTree = "<group>"; };
-		0F43192B2447DCAB00119647 /* biscoito11.pdf */ = {isa = PBXFileReference; lastKnownFileType = image.pdf; name = biscoito11.pdf; path = ../../../../../Sprites/biscoito11.pdf; sourceTree = "<group>"; };
-		0F43192C2447DCAB00119647 /* biscoito16.pdf */ = {isa = PBXFileReference; lastKnownFileType = image.pdf; name = biscoito16.pdf; path = ../../../../../Sprites/biscoito16.pdf; sourceTree = "<group>"; };
-		0F43192D2447DCAB00119647 /* biscoito17.pdf */ = {isa = PBXFileReference; lastKnownFileType = image.pdf; name = biscoito17.pdf; path = ../../../../../Sprites/biscoito17.pdf; sourceTree = "<group>"; };
-		0F43192E2447DCAB00119647 /* biscoito10.pdf */ = {isa = PBXFileReference; lastKnownFileType = image.pdf; name = biscoito10.pdf; path = ../../../../../Sprites/biscoito10.pdf; sourceTree = "<group>"; };
-		0F4319312447DCAB00119647 /* biscoito21.pdf */ = {isa = PBXFileReference; lastKnownFileType = image.pdf; name = biscoito21.pdf; path = ../../../../../Sprites/biscoito21.pdf; sourceTree = "<group>"; };
-		0F4319332447DCAB00119647 /* biscoito15.pdf */ = {isa = PBXFileReference; lastKnownFileType = image.pdf; name = biscoito15.pdf; path = ../../../../../Sprites/biscoito15.pdf; sourceTree = "<group>"; };
-		0F4319362447DCAB00119647 /* biscoito12.pdf */ = {isa = PBXFileReference; lastKnownFileType = image.pdf; name = biscoito12.pdf; path = ../../../../../Sprites/biscoito12.pdf; sourceTree = "<group>"; };
-		0F4319382447DCAB00119647 /* biscoito14.pdf */ = {isa = PBXFileReference; lastKnownFileType = image.pdf; name = biscoito14.pdf; path = ../../../../../Sprites/biscoito14.pdf; sourceTree = "<group>"; };
-		0F4319392447DCAB00119647 /* biscoito19.pdf */ = {isa = PBXFileReference; lastKnownFileType = image.pdf; name = biscoito19.pdf; path = ../../../../../Sprites/biscoito19.pdf; sourceTree = "<group>"; };
-		0F43193A2447DCAB00119647 /* biscoito20.pdf */ = {isa = PBXFileReference; lastKnownFileType = image.pdf; name = biscoito20.pdf; path = ../../../../../Sprites/biscoito20.pdf; sourceTree = "<group>"; };
-		0F4319502447DE4500119647 /* biscoito3.pdf */ = {isa = PBXFileReference; lastKnownFileType = image.pdf; name = biscoito3.pdf; path = ../../../../../Sprites/biscoito3.pdf; sourceTree = "<group>"; };
-		0F4319512447DE4500119647 /* biscoito6.pdf */ = {isa = PBXFileReference; lastKnownFileType = image.pdf; name = biscoito6.pdf; path = ../../../../../Sprites/biscoito6.pdf; sourceTree = "<group>"; };
-		0F4319522447DE4500119647 /* biscoito1.pdf */ = {isa = PBXFileReference; lastKnownFileType = image.pdf; name = biscoito1.pdf; path = ../../../../../Sprites/biscoito1.pdf; sourceTree = "<group>"; };
-		0F4319532447DE4500119647 /* biscoito5.pdf */ = {isa = PBXFileReference; lastKnownFileType = image.pdf; name = biscoito5.pdf; path = ../../../../../Sprites/biscoito5.pdf; sourceTree = "<group>"; };
-		0F4319542447DE4500119647 /* biscoito9.pdf */ = {isa = PBXFileReference; lastKnownFileType = image.pdf; name = biscoito9.pdf; path = ../../../../../Sprites/biscoito9.pdf; sourceTree = "<group>"; };
-		0F4319552447DE4600119647 /* biscoito4.pdf */ = {isa = PBXFileReference; lastKnownFileType = image.pdf; name = biscoito4.pdf; path = ../../../../../Sprites/biscoito4.pdf; sourceTree = "<group>"; };
-		0F4319562447DE4600119647 /* biscoito8.pdf */ = {isa = PBXFileReference; lastKnownFileType = image.pdf; name = biscoito8.pdf; path = ../../../../../Sprites/biscoito8.pdf; sourceTree = "<group>"; };
-		0F4319572447DE4600119647 /* biscoito2.pdf */ = {isa = PBXFileReference; lastKnownFileType = image.pdf; name = biscoito2.pdf; path = ../../../../../Sprites/biscoito2.pdf; sourceTree = "<group>"; };
-		0F4319582447DE4600119647 /* biscoito7.pdf */ = {isa = PBXFileReference; lastKnownFileType = image.pdf; name = biscoito7.pdf; path = ../../../../../Sprites/biscoito7.pdf; sourceTree = "<group>"; };
+		0F5227712448CB17009285D1 /* biscoito18.pdf */ = {isa = PBXFileReference; lastKnownFileType = image.pdf; name = biscoito18.pdf; path = ../../../../../Sprites/biscoito18.pdf; sourceTree = "<group>"; };
+		0F5227722448CB17009285D1 /* biscoito11.pdf */ = {isa = PBXFileReference; lastKnownFileType = image.pdf; name = biscoito11.pdf; path = ../../../../../Sprites/biscoito11.pdf; sourceTree = "<group>"; };
+		0F5227732448CB17009285D1 /* biscoito19.pdf */ = {isa = PBXFileReference; lastKnownFileType = image.pdf; name = biscoito19.pdf; path = ../../../../../Sprites/biscoito19.pdf; sourceTree = "<group>"; };
+		0F5227742448CB17009285D1 /* biscoito8.pdf */ = {isa = PBXFileReference; lastKnownFileType = image.pdf; name = biscoito8.pdf; path = ../../../../../Sprites/biscoito8.pdf; sourceTree = "<group>"; };
+		0F5227752448CB17009285D1 /* biscoito13.pdf */ = {isa = PBXFileReference; lastKnownFileType = image.pdf; name = biscoito13.pdf; path = ../../../../../Sprites/biscoito13.pdf; sourceTree = "<group>"; };
+		0F5227762448CB17009285D1 /* biscoito9.pdf */ = {isa = PBXFileReference; lastKnownFileType = image.pdf; name = biscoito9.pdf; path = ../../../../../Sprites/biscoito9.pdf; sourceTree = "<group>"; };
+		0F5227772448CB18009285D1 /* biscoito5.pdf */ = {isa = PBXFileReference; lastKnownFileType = image.pdf; name = biscoito5.pdf; path = ../../../../../Sprites/biscoito5.pdf; sourceTree = "<group>"; };
+		0F5227782448CB18009285D1 /* biscoito7.pdf */ = {isa = PBXFileReference; lastKnownFileType = image.pdf; name = biscoito7.pdf; path = ../../../../../Sprites/biscoito7.pdf; sourceTree = "<group>"; };
+		0F5227792448CB18009285D1 /* biscoito14.pdf */ = {isa = PBXFileReference; lastKnownFileType = image.pdf; name = biscoito14.pdf; path = ../../../../../Sprites/biscoito14.pdf; sourceTree = "<group>"; };
+		0F52277A2448CB18009285D1 /* biscoito12.pdf */ = {isa = PBXFileReference; lastKnownFileType = image.pdf; name = biscoito12.pdf; path = ../../../../../Sprites/biscoito12.pdf; sourceTree = "<group>"; };
+		0F52277B2448CB18009285D1 /* biscoito10.pdf */ = {isa = PBXFileReference; lastKnownFileType = image.pdf; name = biscoito10.pdf; path = ../../../../../Sprites/biscoito10.pdf; sourceTree = "<group>"; };
+		0F52277C2448CB18009285D1 /* biscoito2.pdf */ = {isa = PBXFileReference; lastKnownFileType = image.pdf; name = biscoito2.pdf; path = ../../../../../Sprites/biscoito2.pdf; sourceTree = "<group>"; };
+		0F52277D2448CB18009285D1 /* biscoito1.pdf */ = {isa = PBXFileReference; lastKnownFileType = image.pdf; name = biscoito1.pdf; path = ../../../../../Sprites/biscoito1.pdf; sourceTree = "<group>"; };
+		0F52277E2448CB18009285D1 /* biscoito6.pdf */ = {isa = PBXFileReference; lastKnownFileType = image.pdf; name = biscoito6.pdf; path = ../../../../../Sprites/biscoito6.pdf; sourceTree = "<group>"; };
+		0F52277F2448CB18009285D1 /* biscoito3.pdf */ = {isa = PBXFileReference; lastKnownFileType = image.pdf; name = biscoito3.pdf; path = ../../../../../Sprites/biscoito3.pdf; sourceTree = "<group>"; };
+		0F5227802448CB18009285D1 /* biscoito4.pdf */ = {isa = PBXFileReference; lastKnownFileType = image.pdf; name = biscoito4.pdf; path = ../../../../../Sprites/biscoito4.pdf; sourceTree = "<group>"; };
+		0F5227812448CB18009285D1 /* biscoito15.pdf */ = {isa = PBXFileReference; lastKnownFileType = image.pdf; name = biscoito15.pdf; path = ../../../../../Sprites/biscoito15.pdf; sourceTree = "<group>"; };
+		0F5227822448CB18009285D1 /* biscoito16.pdf */ = {isa = PBXFileReference; lastKnownFileType = image.pdf; name = biscoito16.pdf; path = ../../../../../Sprites/biscoito16.pdf; sourceTree = "<group>"; };
+		0F5227832448CB18009285D1 /* biscoito21.pdf */ = {isa = PBXFileReference; lastKnownFileType = image.pdf; name = biscoito21.pdf; path = ../../../../../Sprites/biscoito21.pdf; sourceTree = "<group>"; };
+		0F5227842448CB18009285D1 /* biscoito20.pdf */ = {isa = PBXFileReference; lastKnownFileType = image.pdf; name = biscoito20.pdf; path = ../../../../../Sprites/biscoito20.pdf; sourceTree = "<group>"; };
+		0F5227852448CB18009285D1 /* biscoito17.pdf */ = {isa = PBXFileReference; lastKnownFileType = image.pdf; name = biscoito17.pdf; path = ../../../../../Sprites/biscoito17.pdf; sourceTree = "<group>"; };
 		0FCEA426244787BF004E12BD /* Inanotilidade.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = Inanotilidade.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		0FCEA429244787BF004E12BD /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
 		0FCEA42B244787BF004E12BD /* SceneDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SceneDelegate.swift; sourceTree = "<group>"; };
@@ -121,27 +121,27 @@
 		0FCEA43E2447A7A9004E12BD /* Biscoito */ = {
 			isa = PBXGroup;
 			children = (
-				0F4319522447DE4500119647 /* biscoito1.pdf */,
-				0F4319572447DE4600119647 /* biscoito2.pdf */,
-				0F4319502447DE4500119647 /* biscoito3.pdf */,
-				0F4319552447DE4600119647 /* biscoito4.pdf */,
-				0F4319532447DE4500119647 /* biscoito5.pdf */,
-				0F4319512447DE4500119647 /* biscoito6.pdf */,
-				0F4319582447DE4600119647 /* biscoito7.pdf */,
-				0F4319562447DE4600119647 /* biscoito8.pdf */,
-				0F4319542447DE4500119647 /* biscoito9.pdf */,
-				0F43192E2447DCAB00119647 /* biscoito10.pdf */,
-				0F43192B2447DCAB00119647 /* biscoito11.pdf */,
-				0F4319362447DCAB00119647 /* biscoito12.pdf */,
-				0F4319262447DCAB00119647 /* biscoito13.pdf */,
-				0F4319382447DCAB00119647 /* biscoito14.pdf */,
-				0F4319332447DCAB00119647 /* biscoito15.pdf */,
-				0F43192C2447DCAB00119647 /* biscoito16.pdf */,
-				0F43192D2447DCAB00119647 /* biscoito17.pdf */,
-				0F4319282447DCAB00119647 /* biscoito18.pdf */,
-				0F4319392447DCAB00119647 /* biscoito19.pdf */,
-				0F43193A2447DCAB00119647 /* biscoito20.pdf */,
-				0F4319312447DCAB00119647 /* biscoito21.pdf */,
+				0F52277D2448CB18009285D1 /* biscoito1.pdf */,
+				0F52277C2448CB18009285D1 /* biscoito2.pdf */,
+				0F52277F2448CB18009285D1 /* biscoito3.pdf */,
+				0F5227802448CB18009285D1 /* biscoito4.pdf */,
+				0F5227772448CB18009285D1 /* biscoito5.pdf */,
+				0F52277E2448CB18009285D1 /* biscoito6.pdf */,
+				0F5227782448CB18009285D1 /* biscoito7.pdf */,
+				0F5227742448CB17009285D1 /* biscoito8.pdf */,
+				0F5227762448CB17009285D1 /* biscoito9.pdf */,
+				0F52277B2448CB18009285D1 /* biscoito10.pdf */,
+				0F5227722448CB17009285D1 /* biscoito11.pdf */,
+				0F52277A2448CB18009285D1 /* biscoito12.pdf */,
+				0F5227752448CB17009285D1 /* biscoito13.pdf */,
+				0F5227792448CB18009285D1 /* biscoito14.pdf */,
+				0F5227812448CB18009285D1 /* biscoito15.pdf */,
+				0F5227822448CB18009285D1 /* biscoito16.pdf */,
+				0F5227852448CB18009285D1 /* biscoito17.pdf */,
+				0F5227712448CB17009285D1 /* biscoito18.pdf */,
+				0F5227732448CB17009285D1 /* biscoito19.pdf */,
+				0F5227842448CB18009285D1 /* biscoito20.pdf */,
+				0F5227832448CB18009285D1 /* biscoito21.pdf */,
 			);
 			path = Biscoito;
 			sourceTree = "<group>";
@@ -204,30 +204,30 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				0F52278C2448CB18009285D1 /* biscoito5.pdf in Resources */,
+				0F5227972448CB18009285D1 /* biscoito16.pdf in Resources */,
+				0F5227912448CB18009285D1 /* biscoito2.pdf in Resources */,
+				0F5227952448CB18009285D1 /* biscoito4.pdf in Resources */,
+				0F5227922448CB18009285D1 /* biscoito1.pdf in Resources */,
 				0FCEA436244787C1004E12BD /* LaunchScreen.storyboard in Resources */,
-				0F43194B2447DCAB00119647 /* biscoito12.pdf in Resources */,
-				0F43195D2447DE4600119647 /* biscoito9.pdf in Resources */,
-				0F4319462447DCAB00119647 /* biscoito21.pdf in Resources */,
-				0F4319412447DCAB00119647 /* biscoito16.pdf in Resources */,
-				0F4319602447DE4600119647 /* biscoito2.pdf in Resources */,
-				0F4319592447DE4600119647 /* biscoito3.pdf in Resources */,
-				0F4319402447DCAB00119647 /* biscoito11.pdf in Resources */,
+				0F5227872448CB18009285D1 /* biscoito11.pdf in Resources */,
+				0F52278E2448CB18009285D1 /* biscoito14.pdf in Resources */,
+				0F5227892448CB18009285D1 /* biscoito8.pdf in Resources */,
+				0F52278D2448CB18009285D1 /* biscoito7.pdf in Resources */,
 				0FCEA433244787C1004E12BD /* Assets.xcassets in Resources */,
-				0F43195C2447DE4600119647 /* biscoito5.pdf in Resources */,
-				0F43195F2447DE4600119647 /* biscoito8.pdf in Resources */,
-				0F43193B2447DCAB00119647 /* biscoito13.pdf in Resources */,
-				0F4319432447DCAB00119647 /* biscoito10.pdf in Resources */,
 				0FCEA431244787BF004E12BD /* Main.storyboard in Resources */,
-				0F43195B2447DE4600119647 /* biscoito1.pdf in Resources */,
-				0F43195E2447DE4600119647 /* biscoito4.pdf in Resources */,
-				0F4319612447DE4600119647 /* biscoito7.pdf in Resources */,
-				0F43194E2447DCAB00119647 /* biscoito19.pdf in Resources */,
-				0F4319482447DCAB00119647 /* biscoito15.pdf in Resources */,
-				0F43193D2447DCAB00119647 /* biscoito18.pdf in Resources */,
-				0F43195A2447DE4600119647 /* biscoito6.pdf in Resources */,
-				0F4319422447DCAB00119647 /* biscoito17.pdf in Resources */,
-				0F43194F2447DCAB00119647 /* biscoito20.pdf in Resources */,
-				0F43194D2447DCAB00119647 /* biscoito14.pdf in Resources */,
+				0F5227882448CB18009285D1 /* biscoito19.pdf in Resources */,
+				0F52278F2448CB18009285D1 /* biscoito12.pdf in Resources */,
+				0F52278A2448CB18009285D1 /* biscoito13.pdf in Resources */,
+				0F5227932448CB18009285D1 /* biscoito6.pdf in Resources */,
+				0F5227992448CB18009285D1 /* biscoito20.pdf in Resources */,
+				0F5227902448CB18009285D1 /* biscoito10.pdf in Resources */,
+				0F52279A2448CB18009285D1 /* biscoito17.pdf in Resources */,
+				0F5227982448CB18009285D1 /* biscoito21.pdf in Resources */,
+				0F5227962448CB18009285D1 /* biscoito15.pdf in Resources */,
+				0F52278B2448CB18009285D1 /* biscoito9.pdf in Resources */,
+				0F5227942448CB18009285D1 /* biscoito3.pdf in Resources */,
+				0F5227862448CB18009285D1 /* biscoito18.pdf in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
