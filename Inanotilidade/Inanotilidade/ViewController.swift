@@ -20,11 +20,17 @@ class ViewController: UIViewController {
     let frasesDesmotivacionais: [String] = [
         "O segredo do fracasso é começar",
         "A luta é grande mas a derrota é certa",
-        "Vai ter muita gente dizendo que não vai dar certo. Acredite neles",
         "A maior derrota é acreditar que é capaz",
         "Foco, força, fracasso",
         "Não se preocupe. Nada vai dar certo",
-        "É hora de esquecer os erros do passado e começar a planejar os erros do futuro"
+        "Tudo dando errado conforme esperado",
+        "Não foi fácil, mas fracassei novamente!",
+        "Pare de tentar e comece a desistir",
+        "Nenhum obstáculo é grande para quem desiste",
+        "Nada é tão nosso quanto nossos fracassos",
+        "Só vai dar errado se você tentar",
+        "Nunca se esqueça que você é limitado",
+        "Não tenha medo do fracasso, tenha certeza"
     ]
 
     var timerFrase = Timer()
@@ -34,7 +40,8 @@ class ViewController: UIViewController {
         super.viewDidLoad()
         imgBiscoito.isHidden = true
         lblFrase.isHidden = true
-        biscoitoImages = fillArray(total: 21, prefixo: "biscoito")
+        btnPote.adjustsImageWhenHighlighted = false
+        biscoitoImages = fillArray(total: 26, prefixo: "biscoito")
     }
     
     func fillArray(total:Int, prefixo: String) -> [UIImage] {
@@ -49,17 +56,8 @@ class ViewController: UIViewController {
         return imageArray
     }
     
-    func createAnimation(imageView: UIImageView, images: [UIImage]) {
-        imgBiscoito.isHidden = false
-        imageView.animationImages = images
-        imageView.animationDuration = 1.0
-        imageView.animationRepeatCount = 1
-        imageView.startAnimating()
-    }
-    
-    func anime(imageView: UIImageView, images: [UIImage], duration: Double) {
+    func createAnimation(imageView: UIImageView, images: [UIImage], duration: Double) {
         timerFrase = Timer.scheduledTimer(timeInterval: duration, target: self, selector: #selector(timerAction), userInfo: nil, repeats: false)
-        
         UIView.animate(withDuration: duration, delay: 0.0, animations: {
             self.imgBiscoito.isHidden = false
             imageView.animationImages = images
@@ -72,6 +70,7 @@ class ViewController: UIViewController {
         let randomName = frasesDesmotivacionais.randomElement()
         self.lblFrase.isHidden = false
         self.lblFrase.text = randomName
+//        self.lblFrase.text = frasesDesmotivacionais[8]
     }
     
     @objc func timerActionBiscoito() {
@@ -80,10 +79,13 @@ class ViewController: UIViewController {
     }
     
     @IBAction func tapButton(_ sender: Any) {
-        anime(imageView: imgBiscoito, images: biscoitoImages, duration: 1.0)
-//        createAnimation(imageView: imgBiscoito, images: biscoitoImages)
-        imgBiscoito.image = UIImage(named: "biscoito21")
-        timerBiscoito = Timer.scheduledTimer(timeInterval: 3.0, target: self, selector: #selector(timerActionBiscoito), userInfo: nil, repeats: false)
+        self.lblFrase.isHidden = true
+        self.imgBiscoito.isHidden = true
+        createAnimation(imageView: imgBiscoito, images: biscoitoImages, duration: 1.0)
+        imgBiscoito.image = UIImage(named: "biscoito26")
+//        if imgBiscoito.isHidden == false && lblFrase.isHidden == false {
+//            timerBiscoito = Timer.scheduledTimer(timeInterval: 3.0, target: self, selector: #selector(timerActionBiscoito), userInfo: nil, repeats: false)
+//        }
     }
 }
 
