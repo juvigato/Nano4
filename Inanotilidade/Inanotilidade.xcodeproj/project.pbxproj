@@ -58,7 +58,7 @@
 		0F5227832448CB18009285D1 /* biscoito21.pdf */ = {isa = PBXFileReference; lastKnownFileType = image.pdf; name = biscoito21.pdf; path = ../../../../../Sprites/biscoito21.pdf; sourceTree = "<group>"; };
 		0F5227842448CB18009285D1 /* biscoito20.pdf */ = {isa = PBXFileReference; lastKnownFileType = image.pdf; name = biscoito20.pdf; path = ../../../../../Sprites/biscoito20.pdf; sourceTree = "<group>"; };
 		0F5227852448CB18009285D1 /* biscoito17.pdf */ = {isa = PBXFileReference; lastKnownFileType = image.pdf; name = biscoito17.pdf; path = ../../../../../Sprites/biscoito17.pdf; sourceTree = "<group>"; };
-		0FCEA426244787BF004E12BD /* Inanotilidade.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = Inanotilidade.app; sourceTree = BUILT_PRODUCTS_DIR; };
+		0FCEA426244787BF004E12BD /* Suzu.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = Suzu.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		0FCEA429244787BF004E12BD /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
 		0FCEA42B244787BF004E12BD /* SceneDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SceneDelegate.swift; sourceTree = "<group>"; };
 		0FCEA42D244787BF004E12BD /* ViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ViewController.swift; sourceTree = "<group>"; };
@@ -90,7 +90,7 @@
 		0FCEA427244787BF004E12BD /* Products */ = {
 			isa = PBXGroup;
 			children = (
-				0FCEA426244787BF004E12BD /* Inanotilidade.app */,
+				0FCEA426244787BF004E12BD /* Suzu.app */,
 			);
 			name = Products;
 			sourceTree = "<group>";
@@ -163,7 +163,7 @@
 			);
 			name = Inanotilidade;
 			productName = Inanotilidade;
-			productReference = 0FCEA426244787BF004E12BD /* Inanotilidade.app */;
+			productReference = 0FCEA426244787BF004E12BD /* Suzu.app */;
 			productType = "com.apple.product-type.application";
 		};
 /* End PBXNativeTarget section */
@@ -392,7 +392,7 @@
 					"@executable_path/Frameworks",
 				);
 				PRODUCT_BUNDLE_IDENTIFIER = com.vigato.Inanotilidade;
-				PRODUCT_NAME = "$(TARGET_NAME)";
+				PRODUCT_NAME = Suzu;
 				SWIFT_VERSION = 5.0;
 				TARGETED_DEVICE_FAMILY = "1,2";
 			};
@@ -410,7 +410,7 @@
 					"@executable_path/Frameworks",
 				);
 				PRODUCT_BUNDLE_IDENTIFIER = com.vigato.Inanotilidade;
-				PRODUCT_NAME = "$(TARGET_NAME)";
+				PRODUCT_NAME = Suzu;
 				SWIFT_VERSION = 5.0;
 				TARGETED_DEVICE_FAMILY = "1,2";
 			};
